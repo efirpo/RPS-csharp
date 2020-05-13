@@ -1,0 +1,17 @@
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.Tests.deps.json
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.Tests.runtimeconfig.json
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.Tests.runtimeconfig.dev.json
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.Tests.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.Tests.pdb
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/bin/Debug/netcoreapp2.2/rock-paper-scissors.pdb
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.csprojAssemblyReference.cache
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.csproj.CoreCompileInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.AssemblyInfoInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.AssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.csproj.CopyComplete
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.dll
+/Users/suzannedeakins/Desktop/Epicodus/rock-paper-scissors/RPS.Tests/obj/Debug/netcoreapp2.2/rock-paper-scissors.Tests.pdb

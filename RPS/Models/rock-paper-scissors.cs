@@ -14,39 +14,62 @@ namespace RockPaperScissors.Models
       Input1 = input1;
       Input2 = input2;
 
-      if (Input1 == "scissor")
+      switch (input1)
       {
-        return true;
-      }
-      else if (Input1 == "paper")
-      {
-        return true;
-      }
-      else if (Input1 == "rock")
-      {
-        return true;
-      }
-      else
-      {
-        return false;
+        case "scissor":
+        case "paper":
+        case "rock":
+          goto check2;
+        default:
+          return false;
       }
 
-      if (Input2 == "scissor")
+    check2:
+      switch (input2)
       {
-        return true;
+        case "scissor":
+        case "paper":
+        case "rock":
+          return true;
+        default:
+          return false;
       }
-      else if (Input2 == "paper")
-      {
-        return true;
-      }
-      else if (Input2 == "rock")
-      {
-        return true;
-      }
-      else
-      {
-        return false;
-      }
+
+
+
+      // if (Input1 == "scissor" )
+      // {
+      //   return true;
+      // }
+      // else if (Input1 == "paper")
+      // {
+      //   return true;
+      // }
+      // else if (Input1 == "rock")
+      // {
+      //   return true;
+      // }
+      // else
+      // {
+      //   return false;
+      // }
+
+      // if (Input2 == "scissor")
+      // {
+      //   return true;
+      // }
+      // else if (Input2 == "paper")
+      // {
+      //   return true;
+      // }
+      // else if (Input2 == "rock")
+      // {
+      //   return true;
+      // }
+      // else
+      // {
+      //   return false;
+      // }
     }
     public static string CheckForWinner(string input1, string input2)
     {
